@@ -376,6 +376,7 @@ details summary::-webkit-details-marker {
   color: #445162;
   background-color: #fff;
   text-align: center;
+  border: 2px solid #445162;
 }
 
 .price__ol {
@@ -480,6 +481,7 @@ details summary::-webkit-details-marker {
       -ms-grid-row-align: center;
       align-self: center;
   border-radius: 5px;
+  border: none;
 }
 
 .contacts__cntct {
