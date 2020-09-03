@@ -57,6 +57,7 @@ details summary::-webkit-details-marker {
     padding-right: 10px;
 }
 .product__img{
+    max-width: 470px;
     padding: 5px 0 0 0;
 }
 // About
@@ -82,6 +83,9 @@ flex-direction: column;
     display: flex;
     flex-direction: column;
     width: 50%;
+}
+.about__img{
+    max-width: 430px;
 }
 .about__text{
     margin-bottom: 2em;
